@@ -33,7 +33,7 @@ Exploring software architectures at the application and ecosystem levels, includ
 
 ⸻
 
-### **Summary**
+### 📌 **Summary**
 
 This is an **actively evolving backend project**, designed as a practical extension of the course’s theory. It aims to demonstrate how real-world web applications are built, structured, and maintained using modern Java technologies.
 

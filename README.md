@@ -1,4 +1,4 @@
-📦 **Inventory Management System**
+# 📦 **Inventory Management System**
 
 This project is developed as part of the **elective course “WEB Development with Java” at Dreamix.**
 
@@ -6,7 +6,7 @@ Its goal is to serve as a **learning platform** for practicing modern technologi
 
 ⸻
 
-🔧 **Technologies and Concepts to Be Integrated:**
+### 🔧 **Technologies and Concepts to Be Integrated:**
 • **Introduction to Spring Boot**
 Working with Spring Boot and its core concepts like Beans, IoC Container, and REST Controllers.
 
@@ -33,7 +33,7 @@ Exploring software architectures at the application and ecosystem levels, includ
 
 ⸻
 
-📌 **Summary**
+### **Summary**
 
 This is an **actively evolving backend project**, designed as a practical extension of the course’s theory. It aims to demonstrate how real-world web applications are built, structured, and maintained using modern Java technologies.
 
